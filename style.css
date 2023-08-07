@@ -15,3 +15,23 @@ p {font-weight: 300;}
 #sidenav-icons {
     padding-top: 16px;
 }
+
+.adobe-img {
+    padding: 20px 0 20px
+}
+
+.adobe-link {
+    color: #5d4037;
+    font-weight: 220;
+}
+
+.adobe-link-ads {
+    color: #795548;
+    font-weight: 220;
+    font-size: smaller;
+}
+
+.adobe-contents {
+    position: sticky;
+    top: 20px;
+}
