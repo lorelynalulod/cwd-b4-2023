@@ -1,0 +1,17 @@
+
+
+
+h1 {font-weight: 650;
+    color: #795548;
+    }
+h2 {font-weight: 550;
+    color: #5d4037;
+    }
+h3 {color:#75573e;
+    font-weight: 450}
+h5 {color: rgb(177, 146, 146);}
+p {font-weight: 300;}
+
+#sidenav-icons {
+    padding-top: 16px;
+}
